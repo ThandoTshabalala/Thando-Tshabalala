@@ -55,4 +55,4 @@ understanding of cloud architecture and infrastructure.
 ## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/lethauthando-tshabalala-ba02162b1
-- Portfolio: 
+- Portfolio: https://github.com/ThandoTshabalala/Thando-Tshabalala
