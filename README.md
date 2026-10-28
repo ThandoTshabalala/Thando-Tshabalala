@@ -1,4 +1,4 @@
-# Hi, I'm Thando
+# Hi, I'm Lethauthando Tshabalala
 
 I am a Computer & Information Sciences student with a interest in
 Cloud Engineering, AWS, and software development.
